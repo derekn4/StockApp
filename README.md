@@ -2,7 +2,7 @@
 
 Code is in a private repository that is unavaible to show to others
 
-Developed using a Node.js backend previously hosted on Google Cloud at (https://primeval-rain-340301.wl.r.appspot.com/ but has been shut down to avoid billing)
+Developed using a Node.js backend previously hosted on Google Cloud at (https://primeval-rain-340301.wl.r.appspot.com/ but has been shut down as of June 24, 2022 in order to avoid billing)
 The webpage also hosted a frontend developed in Angular with the same funcationality as the mobile iOS application.
 
 iOS application was developed using SwiftUI.
